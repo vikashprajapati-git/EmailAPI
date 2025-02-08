@@ -17,9 +17,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "sending email...." );
-        String message="Hello! sending message from java";
+        String message="Hello Madhu! sending message from my java code";
         String subject="JAVA | Email";
-        String to="vikkurohit10357@gmail.com";
+        String to="madhukumari6604@gmail.com";
         String from="testingemail0304@gmail.com";
 
         //sendEmail(message,subject, to, from);
@@ -68,7 +68,7 @@ public class App
             mimeMessage.setSubject(subject);
 
             //add attachment to message
-            String path="C:\\Users\\vikashprajapati\\OneDrive - Nagarro\\Desktop\\3194734_JALSA 2023 REIMBURSEMENT BILLS AND VOUCHER.zip";
+            String path="D:\\Application-SGI256M006670_Vikash_IndianNavy.pdf";
             MimeMultipart mimeMultipart=new MimeMultipart();//text and file
 
             MimeBodyPart textMime=new MimeBodyPart();
