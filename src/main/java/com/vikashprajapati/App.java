@@ -19,6 +19,8 @@ public class App
         System.out.println( "sending email...." );
         String message="Hello Madhu! sending message from vikash's java code";
         String subject="JAVA | Email | Automation";
+        String subject1="JAVA | Email | Automation";
+        String subject2="JAVA | Email | Automation";
         String to="pikachuvikku@gmail.com";
         String from="testingemail0304@gmail.com";
 
