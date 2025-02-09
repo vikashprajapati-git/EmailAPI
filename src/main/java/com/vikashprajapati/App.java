@@ -20,7 +20,7 @@ public class App
         String message="Hello Madhu! sending message from vikash's java code";
         String subject="JAVA | Email | Automation";
         String subject2="JAVA | Email";
-        String to="madhukumari6604@gmail.com";
+        String to="pikachuvikku@gmail.com";
         String from="testingemail0304@gmail.com";
 
         //sendEmail(message,subject, to, from);
